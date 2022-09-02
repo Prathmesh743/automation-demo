@@ -1,0 +1,12 @@
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\bin\Debug\net6.0\E-Commerce.deps.json
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\bin\Debug\net6.0\E-Commerce.dll
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\bin\Debug\net6.0\E-Commerce.pdb
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\obj\Debug\net6.0\E-Commerce.csproj.AssemblyReference.cache
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\obj\Debug\net6.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\obj\Debug\net6.0\E-Commerce.AssemblyInfoInputs.cache
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\obj\Debug\net6.0\E-Commerce.AssemblyInfo.cs
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\obj\Debug\net6.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\obj\Debug\net6.0\E-Commerce.dll
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\obj\Debug\net6.0\refint\E-Commerce.dll
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\obj\Debug\net6.0\E-Commerce.pdb
+C:\Users\prathmesh.dhumal\selenium_demo\E-Commerce\obj\Debug\net6.0\ref\E-Commerce.dll

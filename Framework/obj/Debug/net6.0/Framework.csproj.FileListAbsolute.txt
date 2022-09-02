@@ -1,0 +1,12 @@
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\bin\Debug\net6.0\Framework.deps.json
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\bin\Debug\net6.0\Framework.dll
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\bin\Debug\net6.0\Framework.pdb
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\obj\Debug\net6.0\Framework.csproj.AssemblyReference.cache
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\obj\Debug\net6.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\obj\Debug\net6.0\Framework.AssemblyInfoInputs.cache
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\obj\Debug\net6.0\Framework.AssemblyInfo.cs
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\obj\Debug\net6.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\obj\Debug\net6.0\Framework.dll
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\obj\Debug\net6.0\refint\Framework.dll
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\obj\Debug\net6.0\Framework.pdb
+C:\Users\prathmesh.dhumal\selenium_demo\Framework\obj\Debug\net6.0\ref\Framework.dll
